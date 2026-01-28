@@ -602,11 +602,11 @@
 },
 {
   "item": "minecraft:raw_gold",
-  "price": 620
+  "price": 90
 },
 {
   "item": "minecraft:raw_gold_block",
-  "price": 90
+  "price": 620
 },
 {
   "item": "minecraft:raw_copper",
@@ -2133,8 +2133,56 @@
   "price": 12000
 },
 {
-  "item": "cobblemon:exp_candy_xs",
+  "item": "cobblemon:exp_candy_xl",
   "price": 35000
+},
+{
+  "item": "cobblemon:mighty_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:smart_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:quick_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:brittle_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:weak_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:sickly_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:health_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:numb_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:tough_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:courage_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:coward_candy",
+  "price": 13500
+},
+{
+  "item": "cobblemon:slow_candy",
+  "price": 13500
 },
 {
   "item": "cobblemon:swift_mochi",
